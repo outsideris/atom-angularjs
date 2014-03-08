@@ -1,7 +1,7 @@
 ".source.js":
   "module":
     "prefix": "ngm"
-    "body": "angular.module('', []);"
+    "body": "angular.module('$1', [$2]);"
   "module as variable":
     "prefix": "ngma"
     "body": "var $1 = angular.module('$2', [$3]);"

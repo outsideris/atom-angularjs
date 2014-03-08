@@ -379,6 +379,9 @@ var $1 = function($scope, $2) {
 
 ## Change logs
 
+#### v0.1.1
+* fix cursor position error in snippets
+
 #### v0.1.0
 
 * support snippets in HTML and JavaScript

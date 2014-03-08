@@ -5,15 +5,6 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    jshint: {
-      options: {
-        jshintrc: true
-      },
-      gruntfile: {
-        src: 'Gruntfile.js'
-      }
-    },
-    watch: {}
   });
 
   // These plugins provide necessary tasks.
@@ -23,6 +14,4 @@ module.exports = function(grunt) {
 
   // Default task.
   grunt.registerTask('default', []);
-  grunt.registerTask('test', []);
-  grunt.registerTask('lint', ['jshint']);
 };

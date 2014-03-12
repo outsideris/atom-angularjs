@@ -2,7 +2,7 @@
   "name": "atom-angularjs",
   "description": "make easy to use Angular.js",
   "main": "./lib/lib/atom-angularjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "\"Outsider\" Jeonghoon Byun",
     "email": "outsideris@gmail.com",

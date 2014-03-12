@@ -1,3 +1,14 @@
+# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+
+It's deprecated.
+This project will be merged into
+[Angular-Atom](https://github.com/angular-ui/AngularJS-Atom).
+And I will develop on it.
+
+### This package is going to be unpublished on Atom packages.
+
+* * *
+
 # Atom-AngulsrJS
 
 a package to make easy to use
@@ -378,6 +389,9 @@ var $1 = function($scope, $2) {
 ```
 
 ## Change logs
+
+#### v0.1.2
+* deprecated. see [Angular-Atom](https://github.com/angular-ui/AngularJS-Atom).
 
 #### v0.1.1
 * fix cursor position error in snippets
